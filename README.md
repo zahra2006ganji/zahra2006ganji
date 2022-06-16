@@ -14,10 +14,6 @@ I started learning HTML & CSS in 2021 and after that JavaScript and Bootstap
 * 🤝  I'm open to collaborating on Front-end projects
 * ⚡  I'm only 16 years old
 
-<a href="https://www.twitter.com/zahra2006ganji" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/zahra2006ganji?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
