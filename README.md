@@ -11,7 +11,7 @@ I started learning HTML & CSS in 2021 and after that JavaScript and Bootstap
 * ✉️  You can contact me at [zahra2006ganji@gmail.com](mailto:zahra2006ganji@gmail.com)
 * 🧠  I'm learning Js
 * 🤝  I'm open to collaborating on Front-end projects
-* ⚡  I'm only 16 years old
+* ⚡  I'm 17 years old
 
 ### Skills
 
